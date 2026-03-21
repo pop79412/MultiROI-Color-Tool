@@ -1,11 +1,11 @@
 # MultiROI-Color-Tool
-Extract RGB, Luminance, and SNR data from multiple regions of interest (ROI). Features include real-time screen cropping, image inspection, and CSV/Text report generation.
+Extract RGB, Luminance, and SNR data from multiple regions of interest (ROI). Features include real-time screen cropping, image inspection, and Text report generation.
 
 
 ## ✨ Key Features
 - **Multi-ROI Selection**: Select multiple areas on a screenshot or a loaded image.
 - **Imatest-style SNR**: Calculates Signal-to-Noise Ratio using trend-removal algorithms.
-- **Data Export**: Automatically generates a marked result image and a detailed data log (CSV).
+- **Data Export**: Automatically generates a marked result image and a detailed data log
 - **High Precision**: Built-in support for Windows DPI awareness for accurate screen capturing.
 
 ## 🛠 Tech Stack
