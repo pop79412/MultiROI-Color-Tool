@@ -15,7 +15,7 @@ Extract RGB, Luminance, and SNR data from multiple regions of interest (ROI). Fe
 ## 🚀 Quick Start
 1. Clone the repo: `git clone https://github.com/pop79412/MultiROI-Color-Tool.git`
 2. Install dependencies: `pip install pillow numpy`
-3. Run the tool: `python main.py`
+3. Run the tool: `python MultiROI-Color-Tool.py`
 4. Capture screen button or load image button
 5. Crop multi ROI and Save log & Image if needed
 
